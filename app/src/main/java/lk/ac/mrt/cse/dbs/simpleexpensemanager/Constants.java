@@ -16,9 +16,12 @@
 
 package lk.ac.mrt.cse.dbs.simpleexpensemanager;
 
+import android.content.Context;
+
 /**
  *
  */
 public class Constants {
+    public  static Context CONTEXT;
     public static final String EXPENSE_MANAGER = "expense-manager";
 }
